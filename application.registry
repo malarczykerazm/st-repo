@@ -3,3 +3,4 @@ Controllers: MainController
 Windows: ConfiguratioWindow
 WebServices: BuildingsWebService, RoomswebService
 
+Additional change to stash
